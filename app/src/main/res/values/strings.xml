@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Boussole</string>
+    <string name="G">Gauche</string>
+    <string name="D">Droite</string>
+    <string name="lat">Lat:</string>
+    <string name="longi">Lon:</string>
+</resources>
